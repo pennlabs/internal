@@ -1,9 +1,11 @@
-Labs Internal Documents
-=======================
+Labs Internal
+=====
 
-The repository for internal Labs documents.
+The repository for internal Labs documents and tools.
 
-Important links
----------------
+Key documents
+-----
 
-- [Our Git workflow](git-workflow.md)
+- [Our Git workflow](guides/git-workflow.md)
+- [Code review at Labs](guides/code-review.md)
+- [Style Guide](guides/style-guide.md)

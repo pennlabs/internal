@@ -48,6 +48,9 @@ kyle-add-search`. **Do not force push to master.**
 1. Assign a reviewer to the PR. Be sure to draw the reviewer's attention to
 any specific questions you have.
 1. Repeat this process based on reviewer comments until you get an "LGTM"
-("Looks Good to Me"). Then merge your PR through request and delet the branch.
+("Looks Good to Me"). Then merge your PR through GitHub and delete the branch.
 1.  You can then remove the local branch by doing `git branch -d
 branchname`.
+
+See [Labs Code Review](code-review.md) for more info on the code review
+process.
