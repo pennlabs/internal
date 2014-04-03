@@ -19,6 +19,13 @@ How to Setup a Server
    - The public and private IP address (found in the "Settings" tab of the droplet on DigitalOcean
    - Any special notes about how the server is configured
 
+1. **Update installed software.**
+
+       $ sudo apt-get update
+       $ sudo apt-get upgrade
+
+   Note that you may want to restart after this `sudo shutdown -h 0`.
+
 1. **You're done!** If you want to go on setting up a particular platform, check out some of these
    guides:
 
