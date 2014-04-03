@@ -26,6 +26,9 @@ How to Setup a Server
 
    Note that you may want to restart after this `sudo shutdown -h 0`.
 
+1. **Set the Fully Qualified Domain name.** I don't know why this is important but anything with
+   Apache complains if you don't have it. See instructions [here](https://library.linode.com/getting-started#sph_update-etc-hosts).
+
 1. **You're done!** If you want to go on setting up a particular platform, check out some of these
    guides:
 
