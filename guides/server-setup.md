@@ -21,8 +21,10 @@ How to Setup a Server
 
 1. **Update installed software.**
 
-       $ sudo apt-get update
-       $ sudo apt-get upgrade
+   ```bash
+   $ sudo apt-get update
+   $ sudo apt-get upgrade
+   ```
 
    Note that you may want to restart after this `sudo shutdown -h 0`.
 
