@@ -26,7 +26,7 @@ How to Setup a Server
    $ sudo apt-get upgrade
    ```
 
-   Note that you may want to restart after this `sudo shutdown -h 0`.
+   Note that you may want to restart after this `sudo shutdown -r 0`.
 
 1. **Set the Fully Qualified Domain name.** I don't know why this is important but anything with
    Apache complains if you don't have it. See instructions [here](https://library.linode.com/getting-started#sph_update-etc-hosts).
